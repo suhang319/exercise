@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="55d122c2-6ff2-49f1-bae5-9660edb6f5a5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1n103dgtajBlUEEeb5QpBwe2JPx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\suhang\PycharmProjects\VIPInterf\testCase" />
+      <recent name="C:\Users\suhang\PycharmProjects\VIPInterf\练习" />
+      <recent name="C:\Users\suhang\PycharmProjects\VIPInterf\testDate" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.readExcel">
+    <configuration name="configHttp" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="VIPInterf" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/common" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/common/configHttp.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="VIPInterf" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="readConfig" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="VIPInterf" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/common" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/common/readConfig.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="readExcel" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="VIPInterf" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/common" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/common/readExcel.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="testCase" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="VIPInterf" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testCase" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testCase/testCase.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.readExcel" />
+        <item itemvalue="Python.readConfig" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.testCase" />
+        <item itemvalue="Python.configHttp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="55d122c2-6ff2-49f1-bae5-9660edb6f5a5" name="Default Changelist" comment="" />
+      <created>1610542091057</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610542091057</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1064" y="47" key="#Unittests_for_初始化和清理方法的学习.TestMyFun.test_add" timestamp="1611061870356">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1064" y="47" key="#Unittests_for_初始化和清理方法的学习.TestMyFun.test_add/0.0.1920.1040@0.0.1920.1040" timestamp="1611061870356" />
+    <state x="989" y="270" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1610542297552">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="989" y="270" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1610542297552" />
+    <state width="1894" height="333" key="GridCell.Tab.0.bottom" timestamp="1611413019604">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1894" height="333" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1611413019604" />
+    <state width="1894" height="333" key="GridCell.Tab.0.center" timestamp="1611413019604">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1894" height="333" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1611413019604" />
+    <state width="1894" height="333" key="GridCell.Tab.0.left" timestamp="1611413019604">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1894" height="333" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1611413019604" />
+    <state width="1894" height="333" key="GridCell.Tab.0.right" timestamp="1611413019604">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1894" height="333" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1611413019604" />
+    <state width="1894" height="333" key="GridCell.Tab.1.bottom" timestamp="1611413023563">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1894" height="333" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1611413023563" />
+    <state width="1894" height="333" key="GridCell.Tab.1.center" timestamp="1611413023563">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1894" height="333" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1611413023563" />
+    <state width="1894" height="333" key="GridCell.Tab.1.left" timestamp="1611413023563">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1894" height="333" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1611413023563" />
+    <state width="1894" height="333" key="GridCell.Tab.1.right" timestamp="1611413023563">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1894" height="333" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1611413023563" />
+    <state x="675" y="43" key="SettingsEditor" timestamp="1611383752450">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="675" y="43" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1611383752450" />
+    <state x="1019" y="272" key="com.intellij.ide.util.TipDialog" timestamp="1611378093716">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1019" y="272" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1611378093716" />
+    <state x="976" y="5" width="840" height="1034" key="search.everywhere.popup" timestamp="1611156866234">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="976" y="5" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1611156866234" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/common/readExcel.py</url>
+          <line>57</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
